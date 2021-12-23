@@ -1,0 +1,7 @@
+func=$1
+
+if test -f "./install.sh"; then
+	bash "install.sh" $func
+else
+	echo "install.sh not found"
+fi
