@@ -17,3 +17,7 @@ cp some-executable /usr/local/bin
 ```
 
 to run it do `ish`
+
+# Installation
+
+move ish to /usr/local/bin
