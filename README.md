@@ -20,4 +20,13 @@ to run it do `ish`
 
 # Installation
 
+## Normally
+
 move ish to /usr/local/bin
+
+## With homebrew
+
+```bash
+brew tap foresterblox/foresterblox
+brew install Ish
+```
